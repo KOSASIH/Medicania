@@ -64,7 +64,7 @@ We welcome contributions from the community to improve Medicania. If you'd like 
 
 ## License
 
-Medicania is released under the [MIT License](https://opensource.org/licenses/MIT).
+Medicania is released under the [MIT License](LICENSE).
 
 ---
 
