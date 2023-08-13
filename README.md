@@ -60,7 +60,7 @@ For detailed information on available endpoints and request parameters, refer to
 
 ## Contributing
 
-We welcome contributions from the community to improve Medicania. If you'd like to contribute, please follow our [contribution guidelines](https://github.com/medicania/contributing.md).
+We welcome contributions from the community to improve Medicania. If you'd like to contribute, please follow our [contribution guidelines](https://github.com/KOSASIH/.github/blob/master/CONTRIBUTING.md).
 
 ## License
 
